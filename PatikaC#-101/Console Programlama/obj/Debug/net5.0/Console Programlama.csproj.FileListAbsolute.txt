@@ -1,0 +1,16 @@
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.exe
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.deps.json
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.runtimeconfig.json
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.runtimeconfig.dev.json
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.dll
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\ref\Console Programlama.dll
+C:\PatikaC#-101\Console Programlama\bin\Debug\net5.0\Console Programlama.pdb
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.csprojAssemblyReference.cache
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.AssemblyInfoInputs.cache
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.AssemblyInfo.cs
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.csproj.CoreCompileInputs.cache
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.dll
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\ref\Console Programlama.dll
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.pdb
+C:\PatikaC#-101\Console Programlama\obj\Debug\net5.0\Console Programlama.genruntimeconfig.cache
