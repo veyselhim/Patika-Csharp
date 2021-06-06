@@ -1,1 +1,1 @@
-"# deneme" 
+# C# 101 PATİKA ÖDEVLERİ
