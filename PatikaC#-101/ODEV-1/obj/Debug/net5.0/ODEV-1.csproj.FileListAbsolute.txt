@@ -1,0 +1,16 @@
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.exe
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.deps.json
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.runtimeconfig.json
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.runtimeconfig.dev.json
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.dll
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ref\ODEV-1.dll
+C:\PatikaC#-101\ODEV-1\bin\Debug\net5.0\ODEV-1.pdb
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.csprojAssemblyReference.cache
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.AssemblyInfoInputs.cache
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.AssemblyInfo.cs
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.csproj.CoreCompileInputs.cache
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.dll
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ref\ODEV-1.dll
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.pdb
+C:\PatikaC#-101\ODEV-1\obj\Debug\net5.0\ODEV-1.genruntimeconfig.cache
