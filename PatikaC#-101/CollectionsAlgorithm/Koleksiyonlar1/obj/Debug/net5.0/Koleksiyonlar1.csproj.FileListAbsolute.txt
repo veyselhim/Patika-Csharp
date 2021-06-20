@@ -1,0 +1,16 @@
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.exe
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.deps.json
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.runtimeconfig.json
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.runtimeconfig.dev.json
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.dll
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\ref\Koleksiyonlar1.dll
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\bin\Debug\net5.0\Koleksiyonlar1.pdb
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.csproj.AssemblyReference.cache
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.AssemblyInfoInputs.cache
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.AssemblyInfo.cs
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.csproj.CoreCompileInputs.cache
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.dll
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\ref\Koleksiyonlar1.dll
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.pdb
+C:\PatikaC#-101\CollectionsAlgorithm\Koleksiyonlar1\obj\Debug\net5.0\Koleksiyonlar1.genruntimeconfig.cache
